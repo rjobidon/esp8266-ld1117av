@@ -1,3 +1,5 @@
+![Photo](Photo.jpg)
+
 # ESP-8266 Power Supply Using LD1117AV Voltage Regulator
 
 The ESP-8266 microcontroller can be supplied in power in several ways:
@@ -15,5 +17,3 @@ The following circuit diagram explains how easy you can integrate the LD1117AV t
 ![circuit](Circuit.png)
 
 ⚠ **Warning! I do not recommend to connecting your computer through USB at same time as any 5V power source, to prevent potential damage on your computer's USB port.**
-
-![Photo](Photo.jpg)
