@@ -15,3 +15,5 @@ The following circuit diagram explains how easy you can integrate the LD1117AV t
 ![circuit](Circuit.png)
 
 ⚠ **Warning! I do not recommend to connecting your computer through USB at same time as any 5V power source, to prevent potential damage on your computer's USB port.**
+
+![Photo](Photo.jpg)
